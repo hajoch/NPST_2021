@@ -24,3 +24,5 @@ For effektivitetens skyld, så bare formaterte jeg til enkle koordinatene og las
 
 
 ![Skjermbilde av løsning](./skjermbilde.PNG "Løsning")
+
+Flagg: `pst{mange snille barn i verden}`
