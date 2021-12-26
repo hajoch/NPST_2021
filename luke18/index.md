@@ -26,6 +26,10 @@ Løsningsordet vil altså åpenbare seg om vi simulerer en aktivitets-kalender f
 
 Decoderen i python leser inn log filen for master branchen, og tegner et bilde av en kalender tilsvarende det som fins på github.
 
+```
+PS C:\~\NPST 2021\luke18> py .\decoder.py
+image painted. opening image
+````
 ![Løsning](.\output.png)
 
 Flagg: `pst{get_clean_go_green}`
