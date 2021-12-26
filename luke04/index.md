@@ -14,6 +14,11 @@ Mvh Mellomleder
 
 Hylleplassene kan tolkes som en Hex representasjon av Unicode karakterer. Om innholdet sorteres etter navn åpenbarer løsningen seg.
 
-Løst i Excel.
+[Løsning i Python](./decoder.py)
+
+```
+C:\~\NPST 2021\luke04> py .\decoder.py  
+PST{DetBlirFortRot}
+```
 
 Flagg: `pst{detblirfortrot}`
